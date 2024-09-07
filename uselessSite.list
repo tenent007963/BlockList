@@ -1,0 +1,12 @@
+# this block list exist to block potential sites that are emphasizing unnecessary amount of DEI and publishing biased/incorrect contents
+# for example, https://dotesports.com/black-myth-wukong/news/black-myth-wukongs-shameless-lack-of-diversity-is-attracting-the-wrong-type-of-fans  
+# the criteria to have the site comes into this list is easy:
+# 1. contents was published with significant DEI bias
+# 2.a. (DEI) author/site did not remove after 7 days (with comments section open)/ 14 days (w/o comment section)
+# 2.b. (Biased/incorrect contents) author/site did not clarify within 4 days (with comments section open)/ 10 days (w/o comment section)
+# In order to add the site into this list, create a new PR with the site added into the list along with a proper citation to the content referred.
+www.dotesports.com
+dotesports.com
+www.thegamer.com
+thegamer.com
+
